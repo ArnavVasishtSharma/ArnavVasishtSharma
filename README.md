@@ -11,7 +11,7 @@ I am a dedicated Computer Science student passionate about creating impactful so
 ## Skills
 
 - **Programming Languages:** Python
-- **Web Technologies:** HTML, CSS
+- **Web Technologies:** HTML, CSS,Javascipt
 
 ## Experience
 
@@ -20,7 +20,7 @@ I am a dedicated Computer Science student passionate about creating impactful so
 ## Contact Me
 
 - **Email:** arnav.vsh007@gmail.com
-- **LinkedIn:** 
+- **LinkedIn:** linkedin.com/in/arnavvasishtsharma/
 - **Portfolio:**
 
 ## Additional Information
